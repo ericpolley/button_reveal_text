@@ -5,3 +5,8 @@ Click the buttons, they reveal text on the page.
 The javascript holds all the text. Upon clicking the button, a function is called to reveal from the index of an object.
 
 erpolley.com
+
+
+
+How to use: Download full zip folder. Extract. Open the folder in VS Code. Open the index.html and right click on the page, Open Live Server
+(You will require the Live Server Extention to utilize)
